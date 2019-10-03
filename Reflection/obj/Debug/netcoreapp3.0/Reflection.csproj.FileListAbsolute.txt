@@ -1,0 +1,11 @@
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.exe
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.deps.json
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.runtimeconfig.json
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.runtimeconfig.dev.json
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.dll
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\bin\Debug\netcoreapp3.0\Reflection.pdb
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.0\Reflection.csprojAssemblyReference.cache
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.0\Reflection.AssemblyInfo.cs
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.0\Reflection.dll
+C:\Users\Azeez.odumosu\source\repos\Reflection\Reflection\obj\Debug\netcoreapp3.0\Reflection.pdb
